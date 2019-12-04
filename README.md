@@ -1,0 +1,1 @@
+# single-factor-smart-beta
